@@ -1,0 +1,11 @@
+
+.obsidian/
+
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/hotkeys.json
+
+# !.obsidian/themes/          # 如果想同步主题
+# !.obsidian/snippets/        # 如果想同步自定义 CSS 片段
+
+# 我问grok，grok推荐这样。
